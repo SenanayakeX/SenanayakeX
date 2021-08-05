@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pasindu Senanayake
+- 👀 I’m interested in cording{}
+- 🌱 I’m currently learning BSc (Hons) in Information Technology Specialization in Software Engineering
+- 📫 How to reach me pasindusenanayake@icloud.com
