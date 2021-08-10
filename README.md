@@ -3,20 +3,14 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-pasindusenanayake@icloud.com-red)](mailto:pasindusenanayake@icloud.com)
-- 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination 
+- 🔭 I’m currently working on consistently working to take note of my progress in daily productivity because I struggle with procrastination 
 - 🌱 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering
 - 👯 I’m looking to collaborate on on music, movies, cool AI stuff, anything I think is fun and worth while.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: pasindusenanayake@icloud.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ⭐️ From Sri Lanka
 
-## Skills and Experience
 🔴 <strong>Programming Languages</strong>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,21 +46,12 @@
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/satyu.26/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:goyalsatyam8@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-  
+
+
+ 
+                                                                                                                 
+
 
 
 
