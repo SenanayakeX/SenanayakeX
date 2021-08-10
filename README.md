@@ -3,9 +3,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently working on consistently working to take note of my progress in daily productivity because I struggle with procrastination 
-- 🌱 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering
-- 👯 I’m looking to collaborate on on music, movies, cool AI stuff, anything I think is fun and worth while.
+- 🔭 I’m currently working on consistently working to take note of my progress in daily productivity because I struggle with procrastination.
+- 🌱 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering.
+- 👯 I'm looking to collaborate find opportunities to success.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: pasindusenanayake@icloud.com
 
