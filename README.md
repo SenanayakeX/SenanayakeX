@@ -1,7 +1,20 @@
+<h1 align="center">
+Hi, I'm Pasindu Senanayake!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+
+<p align="center">
+	<a href="">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;+I'm+a+Data+Science+student...;Always%20learning%20new%20things!;And+I'm+also+a+proud+SriLankan❤️&center=true&width=380&height=45">
+	</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ 
 ### Hi there 👋
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently consistently working to take note of my progress in daily productivity because I struggle with procrastination.
 - 🌱 I’m a 3rd year Data Science Engineering undergraduate in SLIIT University.
