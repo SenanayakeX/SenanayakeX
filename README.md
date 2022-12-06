@@ -9,7 +9,7 @@ Hi, I'm Pasindu Senanayake!
 	<a href="">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;+I'm+a+Data+Science+student...;Always%20learning%20new%20things!;And+I'm+also+a+proud+SriLankan❤️&center=true&width=380&height=45">
 	</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
  
 ### Hi there 👋
 
